@@ -1,6 +1,6 @@
 # Data Structures 2 - U1T1 - Introduction to Graph Theory
 
-  ### Resume
+  ### Summary
   This repository contains a practical tutorial (Hands-On) that introduces basic concepts of graph theory using **Python** and the  `NetworkX` library.  
     
 
