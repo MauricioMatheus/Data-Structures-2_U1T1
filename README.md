@@ -21,7 +21,7 @@
     
   • NetworkX;  
     
-  • Matplotlib;  
+  • Matplotlib.
   
 
 
